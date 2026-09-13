@@ -27,11 +27,7 @@ Machine learning pipeline that predicts treatment resistance in breast cancer pa
 | Specificity | 81.4% |
 | Top genes | UGT2B4, SMR3B, MANBAL, CGA, S100P |
 
-## Limitations
 
-- Resistance label is a survival-based proxy, not actual treatment response data
-- Breast cancer subtypes not stratified
-- Needs validation on external cohorts (e.g., METABRIC)
 
 ## Reference
 
